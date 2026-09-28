@@ -36,6 +36,6 @@ Criar uma página HTML limpa, estruturada de forma semântica e funcional, repro
 ## 📁 Estrutura do Repositório
 
 ```text
-├── index.html        # Estrutura principal do Portfólio/Currículo em HTML5
-├── perfil.jpg        # Imagem de perfil (150x150px)
-└── README.md         # Documentação do desafio
+├── index.html      # Estrutura principal do Portfólio/Currículo em HTML5
+├── eu.png          # Imagem de perfil (150x150px)
+└── README.md       # Documentação do desafio
